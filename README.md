@@ -1,0 +1,1 @@
+"# pukiwiki-fansy-skin" 
